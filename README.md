@@ -2,7 +2,7 @@
 
 **What pain point are we addressing?**
 
-
+There are a lot of limitations to the tradition one-person-one-vote model of collective decision making. Minorities with strong interests may be drown out by the sea of majority voices and things like the "free-rider problem" pop up with the use of public goods. We need a new way of voting and collective decision making that not only represents how you feel about an issue, but also how strongly you feel about it. We need to give minorities with strong individual preferences the ability to make a stronger vote than someone who doesn't care as much about the issue. We need voting to secure
 
 
 **How are we addressing this?**
