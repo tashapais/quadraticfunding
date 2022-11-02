@@ -19,6 +19,7 @@ The are already some quadratic voting and quadratic funding platforms out there 
 
 **How do you prevent voters from multiple accounts?**
 
+If the group is of a limited size and everyone knows the members of the group, this will not be an issue. For large groups, where members of not known, one possible solution is to have the creator of the group send out invites to join the group via special "nonce" that only those who are allowed to join can join. Another possible solution is to take the hash of a user's IP and make that a unique identifier. Thus there can only be one voter per IP address, and users cannot just simply make new accounts by creating a new address.
 
 
 **How do you maintain anonymity in voting?**
